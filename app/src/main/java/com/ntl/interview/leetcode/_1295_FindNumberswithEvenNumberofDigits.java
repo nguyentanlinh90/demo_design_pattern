@@ -1,6 +1,6 @@
 package com.ntl.interview.leetcode;
 
-public class FindNumberswithEvenNumberofDigits1295 {
+public class _1295_FindNumberswithEvenNumberofDigits {
 
     //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 
