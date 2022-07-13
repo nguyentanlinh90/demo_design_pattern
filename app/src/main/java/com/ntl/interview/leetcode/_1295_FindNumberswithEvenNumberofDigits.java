@@ -2,8 +2,6 @@ package com.ntl.interview.leetcode;
 
 public class _1295_FindNumberswithEvenNumberofDigits {
 
-    //https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
-
     public static int findNumbers(int[] nums) {
 
         int bienDem = 0;
