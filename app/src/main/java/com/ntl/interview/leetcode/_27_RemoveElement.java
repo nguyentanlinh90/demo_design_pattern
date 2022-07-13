@@ -20,6 +20,18 @@ public class _27_RemoveElement {
         return n;
     }
 
+    public static int removeElementSuDung2ConTro(int[] a, int x) {
+        int k = 0;
+        for (int i = 0; i <a.length; i++) {
+            if (a[i] != x) {
+                a[k] = a[i];
+                k++;
+            }
+        }
+
+        return k;
+    }
+
     public static void main(String[] args) {
         int[] nums = {3,2,2,3};
         int[] nums1 = {0,1,2,2,3,0,4,2};
